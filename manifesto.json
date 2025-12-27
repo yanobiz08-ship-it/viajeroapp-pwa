@@ -1,10 +1,1 @@
-{
-  "name": "ViajeroApp",
-  "short_name": "Viajero",
-  "start_url": "https://script.google.com/macros/s/AKfycbyGviIeqaZbgcrfYUiDRzeCFY3LTPd70idk6YNbyb28msjgyChJWFWhLKia94CuuPkQ/exec",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#AA0000",
-  "icons": [
-    {
-      "src": "image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6IzAwMDAwMDt9LmNscy0ye2ZpbGw6IzAwMDAwMDt9LmNscy0ze2ZpbGw6IzAwMDAwMDt9LmNscy00e2ZpbGw6IzAwMDAwMDt9LmNscy01e2ZpbGw6IzAwMDAwMDt9LmNscy02e2ZpbGw6IzAwMDAwMDt9PC9zdHlsZT48L2RlZnM+PGcgaWQ9IkxheWVyXzEiIGRhdGEtbmFtZT0iTGF5ZXIgMSI+PHJlY3Qgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIGZpbGw9IiMwMDAwMDAiLz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0wIDUxMnYtNDI0SDUxMnY0MjRaTTAgNTExLjk5SDUxMnoiLz48cGF0aCBjbGFzcz0iY2xzLTQiIGQ9Ik0wIDUxMnYtNDI0SDUxMnY0MjRaTTAgNTExLjk5SDUxMnoiLz48cGF0aCBjbGFzcz0iY2xzLTQiIGQ9Ik0wIDUxMnYtNDI0SDUxMnY0MjRaTTAgNTExLjk5SDUxMnoiLz48cGF0aCBjbGFzcz0iY2xzLTQiIGQ9Ik0wIDUxMnYtNDI0SDUxMnY0MjRaTTAgNTExLjk5SDUxMnoiLz48cGF0aCBjbGFzcz0iY2xzLTQiIGQ9Ik0w
+
