@@ -7,4 +7,14 @@
   "theme_color": "#AA0000",
   "icons": [
     {
-      "src": "image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6IzAwMDAwMDt9LmNscy0ye2ZpbGw6IzAwMDAwMDt9LmNscy0ze2ZpbGw6IzAwMDAwMDt9LmNscy00e2ZpbGw6IzAwMDAwMDt9LmNscy01e2ZpbGw6IzAwMDAwMDt9LmNscy02e2ZpbGw6IzAwMDAwMDt9PC9zdHlsZT48L2RlZnM+PGcgaWQ9IkxheWVyXzEiIGRhdGEtbmFtZT0iTGF5ZXIgMSI+PHJlY3Qgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIGZpbGw9IiMwMDAwMDAiLz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0wIDUxMnYtNDI0SDUxMnY0MjRaTTAgNTExLjk5SDUxMnoiLz48cGF0aCBjbGFzcz0iY2xzLTQiIGQ9Ik0wIDUxMnYtNDI0SDUxMnY0MjRaTTAgNTExLjk5SDUxMnoiLz48cGF0aCBjbGFzcz0iY2xzLTQiIGQ9Ik0wIDUxMnYtNDI0SDUxMnY0MjRaTTAgNTExLjk5SDUxMnoiLz48cGF0aCBjbGFzcz0iY2xzLTQiIGQ9Ik0wIDUxMnYtNDI0SDUxMnY0MjRaTTAgNTExLjk5SDUxMnoiLz
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgZmlsbD0iIzAwMDAwMCIvPjx0ZXh0IHg9IjI1NiIgeT0iMjU2IiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMTIwIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIj5WPC90ZXh0Pjwvc3ZnPg==",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTIgMTkyIj48cmVjdCB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgZmlsbD0iIzAwMDAwMCIvPjx0ZXh0IHg9IjE5MiIgeT0iOTYiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSI2MCIgZmlsbD0iI0ZGRkZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSI+VjwvdGV4dD48L3N2Zz4=",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
