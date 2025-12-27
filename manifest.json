@@ -1,1 +1,20 @@
-
+{
+  "name": "ViajeroApp",
+  "short_name": "Viajero",
+  "start_url": "https://script.google.com/macros/s/AKfycbyGviIeqaZbgcrfYUiDRzeCFY3LTPd70idk6YNbyb28msjgyChJWFWhLKia94CuuPkQ/exec",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#AA0000",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
