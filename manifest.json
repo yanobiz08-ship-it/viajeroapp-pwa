@@ -1,13 +1,10 @@
 {
   "name": "ViajeroApp",
   "short_name": "Viajero",
-  "description": "Planifica, guarda y gestiona tus viajes desde cualquier lugar.",
   "start_url": "https://script.google.com/macros/s/AKfycbyGviIeqaZbgcrfYUiDRzeCFY3LTPd70idk6YNbyb28msjgyChJWFWhLKia94CuuPkQ/exec",
-  "scope": ".",
   "display": "standalone",
-  "orientation": "portrait",
   "background_color": "#ffffff",
-  "theme_color": "#1e90ff",
+  "theme_color": "#AA0000",
   "icons": [
     {
       "src": "icon-192.png",
